@@ -11,7 +11,7 @@
 
 - ⚡ Curiosidade **Adoro Jogos eletronicos**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;O que pretendo Aprender
 
@@ -27,7 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics / Análise
 
@@ -36,7 +36,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximuspho&layout=compact&theme=vision-friendly-dark" alt="maximuspho's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## Contact / Contato
 
