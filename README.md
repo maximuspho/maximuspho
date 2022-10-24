@@ -1,5 +1,4 @@
 <h1 align="left">Olá, Eu Sou Wilson C. Silveira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximuspho&color=orange" alt="Profile views" /> </p>
 
 - 🔥 Formado em Ciencias Contabeis & apaixonado por Desenvolvimento Web. 
 
