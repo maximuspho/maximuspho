@@ -28,7 +28,7 @@
 ## ⚙️ &nbsp;GitHub Analytics / Análise
 
 <p align="left">
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maximuspho&layout=compact&theme=dracula)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=maximuspho&layout=compact&theme=dracula)
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximuspho&layout=compact&theme=vision-friendly-dark" alt="maximuspho's most languages"/>
 </p>
 
