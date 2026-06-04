@@ -28,6 +28,10 @@
 
 ## ⚙️ &nbsp;GitHub Analytics / Análise
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/maximuspho?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/maximuspho">
+</picture>
 
 
 <br>
