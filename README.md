@@ -1,28 +1,96 @@
-<h1 align="left">Olá, Eu Sou Wilson C. Silveira</h1>
+<h1 align="left">🧑‍💻 Olá, Eu Sou Wilson C. Silveira</h1>
 
-- 🔥 Formado em Ciencias Contabeis & apaixonado por Desenvolvimento Web. 
+**`- 🔥 Formado em Ciencias Contabeis.`** 
 
-- 🔭 Atualmente trabalho na empresa Jezemattos LTDA, nas areas de Departamento Pessoal e Escrituração Fiscal.
-
-- ▶️ Eu (não) posto vídeos regularmente em [youtube.com/maximuspho](https://youtube.com/maximuspho)
-
-- 💬 Pergunte-me sobre **O que preferir!!!**
-
-- ⚡ Curiosidade **Adoro Jogos eletronicos**
-
+- 🔭 Atualmente trabalho na empresa Jezemattos LTDA, nas areas de Departamento Pessoal, Escrituração Fiscal.
+- 💬 Pergunte-me sobre **`O que preferir!!!`**
+- ⚡ Curiosidade **`Adoro Jogos eletronicos`**
+---
+<p align="left">
+    <a href="https://github.com/maximuspho?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/maximuspho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/maximuspho?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/maximuspho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 <br>
+
 
 ## 🛠 &nbsp;O que pretendo Aprender
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<img 
+    align="left" 
+    alt="Golang"
+    title="Golang" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img 
+    align="left" 
+    alt="FastAPI"
+    title="FastAPI" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" />
+<img 
+    align="left" 
+    alt="DJango"
+    title="DJango" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img 
+    align="left" 
+    alt="SQLalchemy"
+    title="SQLalchemy" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+
 
 <br>
 
@@ -35,6 +103,7 @@
 
 
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Contact / Contato
 
