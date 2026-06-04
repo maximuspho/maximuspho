@@ -24,73 +24,19 @@
 </p>
 <br>
 
-
 ## 🛠 &nbsp;O que pretendo Aprender
 
-<img 
-    align="left" 
-    alt="Golang"
-    title="Golang" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img 
-    align="left" 
-    alt="FastAPI"
-    title="FastAPI" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" />
-<img 
-    align="left" 
-    alt="DJango"
-    title="DJango" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img 
-    align="left" 
-    alt="SQLalchemy"
-    title="SQLalchemy" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-<img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-
+<p align="left">
+  <img alt="Golang" title="Golang" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img alt="FastAPI" title="FastAPI" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" />
+  <img alt="DJango" title="DJango" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img alt="Docker" title="Docker" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img alt="SQLalchemy" title="SQLalchemy" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img alt="Git" title="Git" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img alt="GitHub" title="GitHub" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+</p>
 
 <br>
 
@@ -98,25 +44,24 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/maximuspho?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/maximuspho">
+  <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/maximuspho">
 </picture>
 
-
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-## Contact / Contato
+## 📨 Contact / Contato 
 
-<a href="https://twitter.com/w_silveira" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Wilson%20C.%20silveira-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/wilson-carlos-silveira-01994a42/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Wilson%20C.%20Silveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/w_silveira_/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Wilson C. Silveira-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maximuspho" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maximuspho-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/wilson-carlos-silveira-01994a42/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/w_silveira_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/maximuspho" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://twitter.com/w_silveira" target="_blank">
+    <img src="https://img.shields.io/badge/X%20/%20Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
 </p>
